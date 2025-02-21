@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","91","test_api[服务监控-查询小时数据]","testcases","Fri Feb 21 14:56:50 CST 2025","failed","Fri Feb 21 14:56:50 CST 2025","","test_api","",""
+"","290","test_api[服务监控-查询日级数据]","testcases","Fri Feb 21 14:56:49 CST 2025","failed","Fri Feb 21 14:56:50 CST 2025","","test_api","",""

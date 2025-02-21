@@ -1,0 +1,1 @@
+[{"uid":"12a0a81a5520937e","name":"test_api[服务监控-查询小时数据]","time":{"start":1740121010281,"stop":1740121010372,"duration":91},"status":"failed","severity":"normal"},{"uid":"dfbe040f691675f3","name":"test_api[服务监控-查询日级数据]","time":{"start":1740121009896,"stop":1740121010186,"duration":290},"status":"failed","severity":"normal"}]

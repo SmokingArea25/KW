@@ -1,0 +1,1 @@
+{"data":{"metric":{"list":[{"uploadCount":3,"kafkaCount":3,"chCount":3,"spendTimeCount":82,"daily":"2025/01/17","hour":"","__typename":"MetricDailyCount"}],"__typename":"MetricResponse"}}}
